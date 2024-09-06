@@ -2,6 +2,8 @@
 
 This project serves as an example to showcase the integration of React, Next.js, Node.js, and MongoDB in building a fullstack application. It provides a practical implementation of these technologies in a task management context.
 
+![task manager](https://github.com/user-attachments/assets/f3aaff2d-b64a-42e5-8a0f-87aaadaf9c54)
+
 ## Project Structure
 
 - `client/`: Contains the frontend application built with Next.js and React.
