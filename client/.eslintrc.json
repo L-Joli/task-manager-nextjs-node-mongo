@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "next/babel"
+  ],
+ "rules": {
+    "no-unused-vars": "warn",
+    "semi": ["error", "never"],
+    "no-console": ["error", { "allow": ["error"] }]
+  }
+}
