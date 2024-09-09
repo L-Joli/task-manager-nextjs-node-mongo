@@ -2,7 +2,8 @@
 
 This project serves as an example to showcase the integration of the MERN stack (MongoDB, Express.js, React, and Node.js) along with Next.js in building a fullstack application. It provides a practical implementation of these technologies in a task management context.
 
-![task manager](https://github.com/user-attachments/assets/f3aaff2d-b64a-42e5-8a0f-87aaadaf9c54)
+![task manager](https://github.com/user-attachments/assets/69161329-26a8-4028-9771-ddec601fe90c)
+
 
 ## Project Structure
 
